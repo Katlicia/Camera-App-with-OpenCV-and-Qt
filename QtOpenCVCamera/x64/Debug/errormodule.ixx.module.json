@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ErrorModule.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Win10\\source\\repos\\QtOpenCVCamera\\QtOpenCVCamera\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Win10\\source\\repos\\QtOpenCVCamera\\QtOpenCVCamera\\x64\\Debug\\ErrorModule.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ErrorModule",
+                    "source-path": "c:\\users\\win10\\source\\repos\\qtopencvcamera\\qtopencvcamera\\errormodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

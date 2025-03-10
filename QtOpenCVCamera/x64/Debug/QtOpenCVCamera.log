@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  Scanning sources for module dependencies...
+  QtOpenCVCamera.cpp
+  QtOpenCVCamera.vcxproj -> C:\Users\Win10\source\repos\QtOpenCVCamera\x64\Debug\QtOpenCVCamera.exe

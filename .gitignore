@@ -1,0 +1,27 @@
+# Visual Studio cache ve build dosyaları
+.vs/
+*.suo
+*.user
+*.ipch
+*.pch
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.sdf
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.VC.db
+*.VC.opendb
+
+# CMake ve Qt derleme dosyaları
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+qtcreator/

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ErrorModule.obj",
+            "outputs": [
+                "x64\\Debug\\ErrorModule.ixx.ifc.dt.module.json",
+                "x64\\Debug\\ErrorModule.ixx.ifc.dt.d.json",
+                "x64\\Debug\\ErrorModule.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ErrorModule",
+                    "source-path": "c:\\users\\win10\\source\\repos\\qtopencvcamera\\qtopencvcamera\\errormodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
