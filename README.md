@@ -14,8 +14,8 @@
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/QtOpenCVCamera.git
-   cd QtOpenCVCamera
+   git clone https://github.com/Katlicia/Camera-App-with-OpenCV-and-Qt.git
+   cd Camera-App-with-OpenCV-and-Qt
    ```
 2. **Open the project**
    - Open the `.sln` file in Visual Studio.
